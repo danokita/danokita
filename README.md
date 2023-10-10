@@ -1,3 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
 ### <Hi there!/> 👋
 I am Daniel Okita
 <!--
